@@ -27,7 +27,7 @@ luces leds que tendrá integradas el personaje.
 
 ## Dibujo del personaje
 
-<img src="https://i.imgur.com/Nco7lmr.png"/>
+<img src="https://i.imgur.com/zymRtxA.png"/>
 
 ## Enlaces de la simulación de wokwi
 Enlace wokwi evaluación: https://wokwi.com/projects/410212025783298049
