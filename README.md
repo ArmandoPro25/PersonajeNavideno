@@ -41,9 +41,9 @@ Evaluaciones curso C:
 <img src="https://i.imgur.com/On4CWgK.png"/>
 
 2do examen:
-<img src="(https://i.imgur.com/vWZpqIF.png"/>
+<img src="https://i.imgur.com/vWZpqIF.png"/>
 
-3ra examen:
+3er examen:
 <img src="https://i.imgur.com/SrUOiw0.png"/>
 
 4to examen:
