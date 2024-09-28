@@ -36,4 +36,4 @@ Enlace wokwi proyecto: https://wokwi.com/projects/410247892586465281
 Enlace video explicación: https://drive.google.com/drive/folders/1TUGUxvcY992NLZvT8brO4_w0FH-me7m3?usp=drive_link
 
 ## Capturas de Evaluaciones de Curso de C
-Evaluaciones curso C:<img src="https://imgur.com/On4CWgK"/>
+Evaluaciones curso C:<img src="https://i.imgur.com/On4CWgK.png"/>
