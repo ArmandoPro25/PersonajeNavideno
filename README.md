@@ -37,6 +37,7 @@ Enlace video explicación: https://drive.google.com/drive/folders/1TUGUxvcY992NL
 
 ## Capturas de Evaluaciones de Curso de C
 Evaluaciones curso C:
+
 1er examen:
 <img src="https://i.imgur.com/On4CWgK.png"/>
 
