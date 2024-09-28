@@ -30,6 +30,7 @@ Imagen hecha a mano o con software
 
 ## Enlaces de la simulación de wokwi
 Enlace wokwi evaluación: https://wokwi.com/projects/410212025783298049
+
 Enlace wokwi proyecto: https://wokwi.com/projects/410247892586465281
 
 ## Videos
