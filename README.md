@@ -29,11 +29,11 @@ luces leds que tendrá integradas el personaje.
 Imagen hecha a mano o con software
 
 ## Enlaces de la simulación de wokwi
-Enlace wokwi evaluación:
-Enlace wokwi proyecto:
+Enlace wokwi evaluación: https://wokwi.com/projects/410212025783298049
+Enlace wokwi proyecto: https://wokwi.com/projects/410247892586465281
 
 ## Videos
-Enlace video explicación: 
+Enlace video explicación: https://drive.google.com/drive/folders/1TUGUxvcY992NLZvT8brO4_w0FH-me7m3?usp=drive_link
 
 ## Capturas de Evaluaciones de Curso de C
-Evaluaciones curso C:
+Evaluaciones curso C:<img src="https://imgur.com/On4CWgK" width="100"/>
